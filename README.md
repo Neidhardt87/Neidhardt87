@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neidhardt87
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning Github/ about Blockchains potential
+- 🌱 I’m still exploring Blockchains potential
 - 💞️ I’m looking at projects focussed on Decentralised Finance 
 - 📫 How to reach me: SwapDEX/Kusari Discord
 
